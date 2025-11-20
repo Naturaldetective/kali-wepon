@@ -1,6 +1,9 @@
 Linux 
 	 LINUX 
 
+PHP
+	 包含php shell和php生成shell的脚本
+
 pspy64 
 	 pspy64 的核心功能是静默、持续地监视系统上的各种事件，即使您是以一个低权限用户身份登录
 
